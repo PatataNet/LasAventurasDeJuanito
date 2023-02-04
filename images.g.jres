@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAB3d3fn7u7u7nd3d+fu7u7ud3d35+7u7u53d3fn7u7u7nd3d+fu7u7ud3d35+7u7u53d3fn7u7u7nd3d+fu7u7ud3d35+7u7u53d3fn7u7u7nd3d+fu7u7ud3d35+7u7u53d3fn7u7u7nd3d+fu7u7ud3d35+7u7u53d3fn7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Plataforma"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A8ADw8BEREQ8PAP/w8fERDw/wD/ARER////8A8BERH////wDw8fERDw/wD/AREREPDwD/AP///wDwAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Juanito"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAABEBAAAAAAAQEREAAAAAABEREREAAAAAEREREQAAABARERERAQAAEBEREREBAAAREREREQEAABERERERAQAAEREREREAAAAQEREREQAAAAARERERAQAAABEREREBAAAAEREREQEAAAAQERERAQAAAAAREQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAA8AAAAAAAAAD/AAAAAAAA8A8AAAAAAP//AAAAAADw//8AAAAAAPAP8A8AAAAA8A8A/wAAAADwDwDwAAAAAPAPAAAAAADw//8PAAAAAB8REfEAAAAAH/Ef8QAAAAAfERHxAAAAAB8f8fEAAAAAHxER8QAAAADw//8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "JuanitoAgachado"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
